@@ -1,6 +1,6 @@
 # RCRA
 
-This is the repository that contains source code for the [RCRA website](https://nail-uh.github.io/rcra-website.github.io/).
+This is the repository that contains source code for the [RCRA website](https://nail-uh.github.io/rcra.github.io/).
 
 Citation details will be added once the paper's venue, authors, and links are finalized.
 
